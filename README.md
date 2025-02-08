@@ -1,2 +1,2 @@
 # WED201C
-Coursera
+Coursera course of FPT University
